@@ -57,5 +57,4 @@ This command will start a local development server and run the React project in 
 Note that If the React project was built with a different setup, you may need to run it with a different command, such as npm run dev or yarn start. Check the package.json file or the README in the repository for more information.
 
 
- 
-That’s it! You sh
+
